@@ -1,0 +1,8 @@
+{
+  "name": "ndem_pathTrack",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "a292c6e0"
+}
